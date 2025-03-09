@@ -314,5 +314,8 @@ Autor: Steven Pajaro Garcia
 Proyecto: UFORM - Automatización de Formularios Web
 Descripción: Esta herramienta permite automatizar el llenado y envío de
 formularios web utilizando Selenium.
+Versión: 1.0
+Fecha: 2025-03-08
+Licencia: MIT
 ================================================================================
 """
