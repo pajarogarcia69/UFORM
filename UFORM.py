@@ -87,14 +87,14 @@ def display_menu():
 
     print(pyfiglet.figlet_format("UFORM"))
     print("\n===== MENÚ UFORM =====")
-    print("1. Modificar URL del formulario")
-    print("2. Modificar cantidad de repeticiones (envíos)")
-    print("3. Modificar cantidad de campos de texto y sus valores")
-    print("4. Modificar cantidad de checkbox y sus XPATH")
-    print("5. Modificar cantidad de radio buttons y sus XPATH")
-    print("6. Modificar cantidad de comboBox y sus opciones")
-    print("7. Modificar XPATH del botón de envío")
-    print("8. Modificar navegador a utilizar")
+    print("1. Ingrese URL del formulario")
+    print("2. Ingrese cantidad de repeticiones (envíos)")
+    print("3. Ingrese cantidad de campos de texto y sus valores")
+    print("4. Ingrese cantidad de checkbox y sus XPATH")
+    print("5. Ingrese cantidad de radio buttons y sus XPATH")
+    print("6. Ingrese cantidad de comboBox y sus opciones")
+    print("7. Ingrese XPATH del botón de envío")
+    print("8. Ingrese navegador a utilizar")
     print("9. Ver parámetros actuales")
     print("10. Iniciar automatización")
     print("0. Salir")
@@ -314,7 +314,7 @@ Autor: Steven Pajaro Garcia
 Proyecto: UFORM - Automatización de Formularios Web
 Descripción: Esta herramienta permite automatizar el llenado y envío de
 formularios web utilizando Selenium.
-Versión: 1.0
+Versión: 1.0.1
 Fecha: 2025-03-08
 Licencia: MIT
 ================================================================================
